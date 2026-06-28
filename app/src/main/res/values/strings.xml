@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StockPulse</string>
+    <string name="market">Market</string>
+    <string name="portfolio">Portfolio</string>
+    <string name="watchlist">Watchlist</string>
+    <string name="settings">Settings</string>
+    <string name="refresh">Refresh</string>
+    <string name="add_stock">Add Stock</string>
+    <string name="buy">BUY</string>
+    <string name="sell">SELL</string>
+    <string name="hold">HOLD</string>
+    <string name="monitoring_active">Monitoring Active</string>
+    <string name="live_updates">Live updates running</string>
+    <string name="channel_description">Stock price and signal alerts</string>
+</resources>

@@ -1,0 +1,6 @@
+-keep class com.stockmarket.app.models.** { *; }
+-keep class com.stockmarket.app.utils.AppSettings { *; }
+-keepattributes Signature
+-keepattributes *Annotation*
+-dontwarn okhttp3.**
+-dontwarn retrofit2.**

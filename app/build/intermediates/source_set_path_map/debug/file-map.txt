@@ -1,0 +1,63 @@
+com.stockmarket.app-jetified-savedstate-ktx-1.2.1-0 /home/dark/.gradle/caches/transforms-3/07c499ea007ee27b316bd9591511f964/transformed/jetified-savedstate-ktx-1.2.1/res
+com.stockmarket.app-jetified-customview-poolingcontainer-1.0.0-1 /home/dark/.gradle/caches/transforms-3/11b388dd4aec6d9b54e3602354368699/transformed/jetified-customview-poolingcontainer-1.0.0/res
+com.stockmarket.app-navigation-runtime-2.7.6-2 /home/dark/.gradle/caches/transforms-3/195e5343ef5be3b3c6fec5d531f68d29/transformed/navigation-runtime-2.7.6/res
+com.stockmarket.app-lifecycle-viewmodel-2.7.0-3 /home/dark/.gradle/caches/transforms-3/19fb1634e963e28a954913b547e4a5c9/transformed/lifecycle-viewmodel-2.7.0/res
+com.stockmarket.app-sqlite-framework-2.3.0-4 /home/dark/.gradle/caches/transforms-3/1e9f9f387bb50439852bc5e3a15f35d5/transformed/sqlite-framework-2.3.0/res
+com.stockmarket.app-fragment-1.6.2-5 /home/dark/.gradle/caches/transforms-3/21dcbf31f0e6916fd440ab4706638aec/transformed/fragment-1.6.2/res
+com.stockmarket.app-jetified-appcompat-resources-1.6.1-6 /home/dark/.gradle/caches/transforms-3/23824d698053f929797791e301bf91f6/transformed/jetified-appcompat-resources-1.6.1/res
+com.stockmarket.app-lifecycle-livedata-core-2.7.0-7 /home/dark/.gradle/caches/transforms-3/255bce6b5eb237c4f546869f3f8a6121/transformed/lifecycle-livedata-core-2.7.0/res
+com.stockmarket.app-jetified-lifecycle-process-2.7.0-8 /home/dark/.gradle/caches/transforms-3/2562856de88312af16f6b6bfa181b318/transformed/jetified-lifecycle-process-2.7.0/res
+com.stockmarket.app-recyclerview-1.3.2-9 /home/dark/.gradle/caches/transforms-3/2b62e089ecc95ed924ea0258d91f2e6d/transformed/recyclerview-1.3.2/res
+com.stockmarket.app-sqlite-2.3.0-10 /home/dark/.gradle/caches/transforms-3/32075e5578d413f70226bdeecd26a0cc/transformed/sqlite-2.3.0/res
+com.stockmarket.app-navigation-runtime-ktx-2.7.6-11 /home/dark/.gradle/caches/transforms-3/3ba3d382eb24e7d0801607c0a4f10732/transformed/navigation-runtime-ktx-2.7.6/res
+com.stockmarket.app-jetified-lifecycle-viewmodel-ktx-2.7.0-12 /home/dark/.gradle/caches/transforms-3/3bab59176b2e927026a29e825db3c300/transformed/jetified-lifecycle-viewmodel-ktx-2.7.0/res
+com.stockmarket.app-drawerlayout-1.1.1-13 /home/dark/.gradle/caches/transforms-3/3d657aac24a1bffd6d63383cfbe6b058/transformed/drawerlayout-1.1.1/res
+com.stockmarket.app-jetified-profileinstaller-1.3.0-14 /home/dark/.gradle/caches/transforms-3/409acb17ac08d5bfd510839c885b2c33/transformed/jetified-profileinstaller-1.3.0/res
+com.stockmarket.app-cardview-1.0.0-15 /home/dark/.gradle/caches/transforms-3/41566863bf103aff624e14bb88402f61/transformed/cardview-1.0.0/res
+com.stockmarket.app-jetified-startup-runtime-1.1.1-16 /home/dark/.gradle/caches/transforms-3/47d1ac38417517385d7f60bda91e8c0a/transformed/jetified-startup-runtime-1.1.1/res
+com.stockmarket.app-material-1.9.0-17 /home/dark/.gradle/caches/transforms-3/4bf6fd2fdc8fb4cd235158a169735c79/transformed/material-1.9.0/res
+com.stockmarket.app-slidingpanelayout-1.2.0-18 /home/dark/.gradle/caches/transforms-3/4e62464dcb2601e39e7856d37ca9ff99/transformed/slidingpanelayout-1.2.0/res
+com.stockmarket.app-core-runtime-2.2.0-19 /home/dark/.gradle/caches/transforms-3/4f961319d4aed48586da84f3535dabf5/transformed/core-runtime-2.2.0/res
+com.stockmarket.app-jetified-fragment-ktx-1.6.2-20 /home/dark/.gradle/caches/transforms-3/52e172aaa75c649d3672d572755957be/transformed/jetified-fragment-ktx-1.6.2/res
+com.stockmarket.app-navigation-ui-ktx-2.7.6-21 /home/dark/.gradle/caches/transforms-3/5c2565770fcd9ecfef87908829b56e0e/transformed/navigation-ui-ktx-2.7.6/res
+com.stockmarket.app-navigation-common-2.7.6-22 /home/dark/.gradle/caches/transforms-3/5d89deb4b0eb29f9dd9e2c9c2f539d91/transformed/navigation-common-2.7.6/res
+com.stockmarket.app-navigation-fragment-ktx-2.7.6-23 /home/dark/.gradle/caches/transforms-3/5da159717c919bce6b5f1846611c6dc9/transformed/navigation-fragment-ktx-2.7.6/res
+com.stockmarket.app-work-runtime-ktx-2.9.0-24 /home/dark/.gradle/caches/transforms-3/645b13a58cf8976161f10bb009cd9920/transformed/work-runtime-ktx-2.9.0/res
+com.stockmarket.app-constraintlayout-2.1.4-25 /home/dark/.gradle/caches/transforms-3/6de17af1fafef4018d975c87f851457b/transformed/constraintlayout-2.1.4/res
+com.stockmarket.app-preference-1.2.1-26 /home/dark/.gradle/caches/transforms-3/71281ca1c2fafedd1b8e1beb57f74386/transformed/preference-1.2.1/res
+com.stockmarket.app-jetified-lifecycle-runtime-ktx-2.7.0-27 /home/dark/.gradle/caches/transforms-3/78799b695c93d441769711b07c9fc399/transformed/jetified-lifecycle-runtime-ktx-2.7.0/res
+com.stockmarket.app-lifecycle-runtime-2.7.0-28 /home/dark/.gradle/caches/transforms-3/7e8990a4fde5ac3beed11fb15b5d1266/transformed/lifecycle-runtime-2.7.0/res
+com.stockmarket.app-jetified-savedstate-1.2.1-29 /home/dark/.gradle/caches/transforms-3/7f9e377c95b77b8b9feced6a92b68357/transformed/jetified-savedstate-1.2.1/res
+com.stockmarket.app-coordinatorlayout-1.1.0-30 /home/dark/.gradle/caches/transforms-3/8de7845006d900ef2d34e7cec1e14c11/transformed/coordinatorlayout-1.1.0/res
+com.stockmarket.app-appcompat-1.6.1-31 /home/dark/.gradle/caches/transforms-3/9280386eeb9849e58ccfe273753cebc6/transformed/appcompat-1.6.1/res
+com.stockmarket.app-navigation-common-ktx-2.7.6-32 /home/dark/.gradle/caches/transforms-3/931e26222ba23366809c2b821eb25e72/transformed/navigation-common-ktx-2.7.6/res
+com.stockmarket.app-jetified-lifecycle-service-2.7.0-33 /home/dark/.gradle/caches/transforms-3/9550231ab14d38e4522f77d47f90593a/transformed/jetified-lifecycle-service-2.7.0/res
+com.stockmarket.app-swiperefreshlayout-1.1.0-34 /home/dark/.gradle/caches/transforms-3/9bfd63da194ea098acd3444b1236af7b/transformed/swiperefreshlayout-1.1.0/res
+com.stockmarket.app-jetified-preference-ktx-1.2.1-35 /home/dark/.gradle/caches/transforms-3/9d99715d31de82865115f9760fc2104e/transformed/jetified-preference-ktx-1.2.1/res
+com.stockmarket.app-core-1.12.0-36 /home/dark/.gradle/caches/transforms-3/a02af45ee381eb3587200483e4a20c77/transformed/core-1.12.0/res
+com.stockmarket.app-jetified-lifecycle-livedata-core-ktx-2.7.0-37 /home/dark/.gradle/caches/transforms-3/ab124d3a4b5bca578e436ba1f326ec04/transformed/jetified-lifecycle-livedata-core-ktx-2.7.0/res
+com.stockmarket.app-transition-1.4.1-38 /home/dark/.gradle/caches/transforms-3/b4b327b042fc2c371afcb6a8650194d7/transformed/transition-1.4.1/res
+com.stockmarket.app-navigation-fragment-2.7.6-39 /home/dark/.gradle/caches/transforms-3/b88cbf0d310b8ecd04599396e25c5349/transformed/navigation-fragment-2.7.6/res
+com.stockmarket.app-jetified-activity-1.7.2-40 /home/dark/.gradle/caches/transforms-3/bc4fa18b08444e854ab677cd15179e6a/transformed/jetified-activity-1.7.2/res
+com.stockmarket.app-lifecycle-livedata-2.7.0-41 /home/dark/.gradle/caches/transforms-3/be9438f75242ac1bb4ff266f6303cd97/transformed/lifecycle-livedata-2.7.0/res
+com.stockmarket.app-navigation-ui-2.7.6-42 /home/dark/.gradle/caches/transforms-3/c19fa707c1d42503d35ef23bec51c8c0/transformed/navigation-ui-2.7.6/res
+com.stockmarket.app-jetified-lifecycle-livedata-ktx-2.7.0-43 /home/dark/.gradle/caches/transforms-3/c98187e8cd552be9197261aab9f4bd41/transformed/jetified-lifecycle-livedata-ktx-2.7.0/res
+com.stockmarket.app-jetified-core-ktx-1.12.0-44 /home/dark/.gradle/caches/transforms-3/d06412960ba4d08e064a44c054c185c4/transformed/jetified-core-ktx-1.12.0/res
+com.stockmarket.app-jetified-viewpager2-1.1.0-beta02-45 /home/dark/.gradle/caches/transforms-3/d343e91688881228c35bc2f30a7c6236/transformed/jetified-viewpager2-1.1.0-beta02/res
+com.stockmarket.app-jetified-emoji2-views-helper-1.2.0-46 /home/dark/.gradle/caches/transforms-3/d5096ef4d9e320af8baa93cee5f8559c/transformed/jetified-emoji2-views-helper-1.2.0/res
+com.stockmarket.app-jetified-glide-4.16.0-47 /home/dark/.gradle/caches/transforms-3/d60a53f5108771335de322f1afbcf41c/transformed/jetified-glide-4.16.0/res
+com.stockmarket.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-48 /home/dark/.gradle/caches/transforms-3/d6d89abe621fd41ed99410b7ee9568c0/transformed/jetified-lifecycle-viewmodel-savedstate-2.7.0/res
+com.stockmarket.app-jetified-activity-ktx-1.7.2-49 /home/dark/.gradle/caches/transforms-3/de6e561ebadd5468f12d19acce17b07f/transformed/jetified-activity-ktx-1.7.2/res
+com.stockmarket.app-work-runtime-2.9.0-50 /home/dark/.gradle/caches/transforms-3/e049be0f20da1e49de297877aca7b1f2/transformed/work-runtime-2.9.0/res
+com.stockmarket.app-room-runtime-2.5.0-51 /home/dark/.gradle/caches/transforms-3/e4529df02904d0c648302a6edc27c9d9/transformed/room-runtime-2.5.0/res
+com.stockmarket.app-jetified-annotation-experimental-1.3.0-52 /home/dark/.gradle/caches/transforms-3/ec262d5dd80ed8803f01a8338c2fb539/transformed/jetified-annotation-experimental-1.3.0/res
+com.stockmarket.app-jetified-room-ktx-2.5.0-53 /home/dark/.gradle/caches/transforms-3/ed173712640664308363bea21f1c4752/transformed/jetified-room-ktx-2.5.0/res
+com.stockmarket.app-jetified-emoji2-1.2.0-54 /home/dark/.gradle/caches/transforms-3/ee1025cbc6c8bdae12388e839ec3fd6e/transformed/jetified-emoji2-1.2.0/res
+com.stockmarket.app-jetified-window-1.0.0-55 /home/dark/.gradle/caches/transforms-3/f79e17bbfbed44e717a6c0511d04fd9b/transformed/jetified-window-1.0.0/res
+com.stockmarket.app-pngs-56 /home/dark/Downloads/StockMarketApp (3)/StockMarketApp/app/build/generated/res/pngs/debug
+com.stockmarket.app-resValues-57 /home/dark/Downloads/StockMarketApp (3)/StockMarketApp/app/build/generated/res/resValues/debug
+com.stockmarket.app-packageDebugResources-58 /home/dark/Downloads/StockMarketApp (3)/StockMarketApp/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.stockmarket.app-packageDebugResources-59 /home/dark/Downloads/StockMarketApp (3)/StockMarketApp/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.stockmarket.app-merged_res-60 /home/dark/Downloads/StockMarketApp (3)/StockMarketApp/app/build/intermediates/merged_res/debug
+com.stockmarket.app-debug-61 /home/dark/Downloads/StockMarketApp (3)/StockMarketApp/app/src/debug/res
+com.stockmarket.app-main-62 /home/dark/Downloads/StockMarketApp (3)/StockMarketApp/app/src/main/res

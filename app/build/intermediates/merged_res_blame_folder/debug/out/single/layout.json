@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "com.stockmarket.app-mergeDebugResources-59:/layout/dialog_add_stock.xml",
+        "source": "com.stockmarket.app-main-62:/layout/dialog_add_stock.xml"
+    },
+    {
+        "merged": "com.stockmarket.app-mergeDebugResources-59:/layout/activity_portfolio.xml",
+        "source": "com.stockmarket.app-main-62:/layout/activity_portfolio.xml"
+    },
+    {
+        "merged": "com.stockmarket.app-mergeDebugResources-59:/layout/dialog_set_alert.xml",
+        "source": "com.stockmarket.app-main-62:/layout/dialog_set_alert.xml"
+    },
+    {
+        "merged": "com.stockmarket.app-mergeDebugResources-59:/layout/activity_stock_detail.xml",
+        "source": "com.stockmarket.app-main-62:/layout/activity_stock_detail.xml"
+    },
+    {
+        "merged": "com.stockmarket.app-mergeDebugResources-59:/layout/item_stock.xml",
+        "source": "com.stockmarket.app-main-62:/layout/item_stock.xml"
+    },
+    {
+        "merged": "com.stockmarket.app-mergeDebugResources-59:/layout/activity_main.xml",
+        "source": "com.stockmarket.app-main-62:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.stockmarket.app-mergeDebugResources-59:/layout/activity_watchlist.xml",
+        "source": "com.stockmarket.app-main-62:/layout/activity_watchlist.xml"
+    },
+    {
+        "merged": "com.stockmarket.app-mergeDebugResources-59:/layout/activity_settings.xml",
+        "source": "com.stockmarket.app-main-62:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.stockmarket.app-mergeDebugResources-59:/layout/item_watchlist.xml",
+        "source": "com.stockmarket.app-main-62:/layout/item_watchlist.xml"
+    },
+    {
+        "merged": "com.stockmarket.app-mergeDebugResources-59:/layout/dialog_add_portfolio.xml",
+        "source": "com.stockmarket.app-main-62:/layout/dialog_add_portfolio.xml"
+    },
+    {
+        "merged": "com.stockmarket.app-mergeDebugResources-59:/layout/item_portfolio.xml",
+        "source": "com.stockmarket.app-main-62:/layout/item_portfolio.xml"
+    }
+]

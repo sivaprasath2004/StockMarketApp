@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#00B4D8</color>
+    <color name="black">#000000</color>
+    <color name="blue_400">#42A5F5</color>
+    <color name="blue_800">#0D47A1</color>
+    <color name="card_bg">#132237</color>
+    <color name="card_bg_elevated">#1A2E40</color>
+    <color name="chart_grid">#1A3A5C</color>
+    <color name="chart_negative">#FF5252</color>
+    <color name="chart_positive">#00C853</color>
+    <color name="divider">#1E3A5F</color>
+    <color name="green_400">#00C853</color>
+    <color name="green_700">#00695C</color>
+    <color name="green_light">#69F0AE</color>
+    <color name="on_surface">#E8F4FD</color>
+    <color name="primary">#0D1B2A</color>
+    <color name="primary_dark">#07111C</color>
+    <color name="primary_variant">#1A2E40</color>
+    <color name="red_400">#FF5252</color>
+    <color name="red_700">#D50000</color>
+    <color name="surface">#132237</color>
+    <color name="surface_variant">#1E3248</color>
+    <color name="text_hint">#607D8B</color>
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#90CAF9</color>
+    <color name="white">#FFFFFF</color>
+    <color name="yellow_600">#FFD600</color>
+    <string name="add_stock">Add Stock</string>
+    <string name="app_name">StockPulse</string>
+    <string name="buy">BUY</string>
+    <string name="channel_description">Stock price and signal alerts</string>
+    <string name="hold">HOLD</string>
+    <string name="live_updates">Live updates running</string>
+    <string name="market">Market</string>
+    <string name="monitoring_active">Monitoring Active</string>
+    <string name="portfolio">Portfolio</string>
+    <string name="refresh">Refresh</string>
+    <string name="sell">SELL</string>
+    <string name="settings">Settings</string>
+    <string name="watchlist">Watchlist</string>
+    <style name="ButtonGreen" parent="Widget.MaterialComponents.Button">
+        <item name="backgroundTint">@color/green_400</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="cornerRadius">8dp</item>
+    </style>
+    <style name="ButtonRed" parent="Widget.MaterialComponents.Button">
+        <item name="backgroundTint">@color/red_400</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="cornerRadius">8dp</item>
+    </style>
+    <style name="CardStyle" parent="Widget.MaterialComponents.CardView">
+        <item name="cardBackgroundColor">@color/card_bg</item>
+        <item name="cardCornerRadius">12dp</item>
+        <item name="cardElevation">4dp</item>
+    </style>
+    <style name="TextAppearance.Label" parent="TextAppearance.MaterialComponents.Caption">
+        <item name="android:textColor">@color/text_secondary</item>
+        <item name="android:textSize">11sp</item>
+    </style>
+    <style name="TextAppearance.Value" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="android:textColor">@color/text_primary</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="Theme.StockMarket" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="android:windowBackground">@color/primary</item>
+        <item name="android:statusBarColor">@color/primary_dark</item>
+        <item name="android:navigationBarColor">@color/primary_dark</item>
+        <item name="colorSurface">@color/surface</item>
+        <item name="colorOnSurface">@color/on_surface</item>
+        <item name="android:textColorPrimary">@color/text_primary</item>
+        <item name="android:textColorSecondary">@color/text_secondary</item>
+        <item name="materialCardViewStyle">@style/CardStyle</item>
+    </style>
+</resources>
