@@ -1,3 +1,5 @@
+## In Development 
+
 # 📊 StockPulse — Android Stock Market App
 
 A full-featured, real-time Android stock market application with live data, 
